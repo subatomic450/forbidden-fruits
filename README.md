@@ -1,7 +1,7 @@
 
 # Industry type: Ecommerce
 
-# project Title: "ForbiddenFruits"
+# Project Title: "ForbiddenFruits"
 
 # Project Details
 
