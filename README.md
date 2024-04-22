@@ -91,21 +91,22 @@ engage with users through a conversational interface.
 ![6](https://github.com/subatomic450/forbidden-fruits/assets/165378970/577f55c7-7c55-4cf1-b809-5367f8bd954e)
 # Embedded code
 
+![7](https://github.com/subatomic450/forbidden-fruits/assets/165378970/9536ac06-75c0-4f59-8f36-6ae016d6d784)
 # Description
 Here I am attaching the final working website's screenhot for the reference.
 
 # Working Live Project Display
 
 # Home page
-
+![8](https://github.com/subatomic450/forbidden-fruits/assets/165378970/5d3acacb-966d-4edc-94c8-f45ac68af099)
 # Shop
-
+![9](https://github.com/subatomic450/forbidden-fruits/assets/165378970/d1e42419-5cb3-47e5-a608-cf301b9c87b5)
 # Chat
-
+![10](https://github.com/subatomic450/forbidden-fruits/assets/165378970/4fd9a165-7c3e-4693-88e3-e72d5e504686)
 # About
-
+![11](https://github.com/subatomic450/forbidden-fruits/assets/165378970/235da467-277b-4822-846a-16e42edce9e0)
 # Contact
-
+![12](https://github.com/subatomic450/forbidden-fruits/assets/165378970/61de58bb-5ca0-4f1a-9821-5b931f6b5bce)
 
 # Final Project Statement:
 Unleash your taste buds on a delicious adventure with our exotic fruits! Explore a world
