@@ -6,7 +6,7 @@
 # Project Details
 
 1. Project Demo URL: https://fruitsstorage.z13.web.core.windows.net/
-2. Demo Video URL:
+2. Demo Video URL: https://youtu.be/u5JQWKF4N_A?si=VUAJG7kq0bXmJLZ0
 3. GitHub Repository URL: https://github.com/subatomic450/forbidden-fruits.git
 4. Industry: Ecommerce
 
