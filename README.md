@@ -19,11 +19,11 @@
 
 # Azure services used:
 
-Azure blob storage
-Storage account
-Azure Backup service
-Azure AI services
-Azure Role Based access Control (RBAC)
+1. Azure blob storage
+2. Storage account
+3. Azure Backup service
+4. Azure AI services
+5. Azure Role Based access Control (RBAC)
 
 # Problem Statement:
 The most delicious things can be the harder to find. Maybe you&#39;ve longed to try the
