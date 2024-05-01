@@ -93,12 +93,13 @@ engage with users through a conversational interface.
 ![5](https://github.com/subatomic450/forbidden-fruits/assets/165378970/04aa4cca-da35-44bc-97ff-2a827e290010)
 
 # Backup policy
-
+![2 backup policy](https://github.com/subatomic450/forbidden-fruits/assets/165378970/4f04a460-a02f-4c0f-b23d-9916fd9b1919)
 
 # Language resource
 ![6](https://github.com/subatomic450/forbidden-fruits/assets/165378970/577f55c7-7c55-4cf1-b809-5367f8bd954e)
 
 # Uploading bot files to custom question answering
+![1 uploading bot files](https://github.com/subatomic450/forbidden-fruits/assets/165378970/3b03267a-cf00-4e29-acbd-ad5340b507c2)
 
 
 
@@ -110,9 +111,12 @@ engage with users through a conversational interface.
 ![2](https://github.com/subatomic450/forbidden-fruits/assets/165378970/384bc104-1729-436a-a4e6-dd703103224a)
 
 # Bot response
+![3 Bot response](https://github.com/subatomic450/forbidden-fruits/assets/165378970/989ac7d1-db31-4ff1-821c-1384e485cd88)
+
 
 # Resource visulaiser
 
+![4 resource visualizer](https://github.com/subatomic450/forbidden-fruits/assets/165378970/bf598bd6-d8c9-41ad-97c6-de0f50562c70)
 
 
 
