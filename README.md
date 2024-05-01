@@ -1,5 +1,5 @@
 
-# Industry type: Ecommerce
+# Industry type: Earth
 
 # Project Title: "ForbiddenFruits"
 
