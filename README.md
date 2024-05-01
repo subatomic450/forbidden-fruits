@@ -79,19 +79,43 @@ engage with users through a conversational interface.
 ![1](https://github.com/subatomic450/forbidden-fruits/assets/165378970/0651ef7b-ed1a-48d8-9b4d-925e046ae37e)
 
 
-# Static website
-![2](https://github.com/subatomic450/forbidden-fruits/assets/165378970/384bc104-1729-436a-a4e6-dd703103224a)
+
 # Containers
 ![3](https://github.com/subatomic450/forbidden-fruits/assets/165378970/f8a240e4-2615-47fe-9bf4-17ddc0061169)
+
+
 # Backup vault
 ![4](https://github.com/subatomic450/forbidden-fruits/assets/165378970/e8fddd45-bb64-4f0f-9312-e2997b1feff9)
+
+
+
 # Role Assignments
 ![5](https://github.com/subatomic450/forbidden-fruits/assets/165378970/04aa4cca-da35-44bc-97ff-2a827e290010)
+
+# Backup policy
+
+
 # Language resource
 ![6](https://github.com/subatomic450/forbidden-fruits/assets/165378970/577f55c7-7c55-4cf1-b809-5367f8bd954e)
+
+# Uploading bot files to custom question answering
+
+
+
 # Embedded code
 
 ![7](https://github.com/subatomic450/forbidden-fruits/assets/165378970/9536ac06-75c0-4f59-8f36-6ae016d6d784)
+
+# Static website
+![2](https://github.com/subatomic450/forbidden-fruits/assets/165378970/384bc104-1729-436a-a4e6-dd703103224a)
+
+# Bot response
+
+# Resource visulaiser
+
+
+
+
 # Description
 Here I am attaching the final working website's screenhot for the reference.
 
