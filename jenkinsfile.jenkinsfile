@@ -1,0 +1,17 @@
+pipeline {
+    agent any
+    stages {
+        stage('Pull Latest Code') {
+            steps {
+                // Pull the latest changes from the Git repository
+                sh 'git pull origin main'
+            }
+        }
+        stage('Deploy to Nginx') {
+            steps {
+                // Restart Nginx to apply the latest changes
+                sh 'sudo systemctl restart nginx'
+            }
+        }
+    }
+}
